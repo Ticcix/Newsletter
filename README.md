@@ -30,7 +30,8 @@ i wanted it to be intuitive, interactive, and, of course, capable of sending mes
 
 ``` Message Composing ``` Admin could compose messages with the option to send them to multiple email addresses. i implemented a user-friendly interface for selecting recipients, making it easy to add and remove email addresses from the recipient list.
 
-``` TinyMCE  Editor ``` Familiar content tools ready to use out-of-the-box.
+``` TinyMCE Integration ``` To ensure ease of use of the textarea, I added a WYSIWYG editor from TinyMCE so that you can send cool newsletters to your subscribers
+ 
 
 ```Email Notifications ``` To ensure that recipients were aware of new messages, i integrated email notifications. When a user sent a chat message to multiple email addresses, each recipient received an email notification with a preview of the message and a link to the page.
 
